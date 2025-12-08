@@ -1,0 +1,16 @@
+{
+  "Login": {
+    "ValidCredentials": "Login successful",
+    "InvalidCredentials": "Invalid email or password"
+  },
+  "Search": {
+    "Product": "Laptop",
+    "SelectedProduct": "Dell inspiron 15, 16GB RAM, 512GB SSD"
+  },
+  "Cart": {
+    "AddedItem": "Dell inspiron 15, 16GB RAM, 512GB SSD"
+  },
+  "Payment": {
+    "DetailsEntered": "Payment details successfully entered",
+    "Confirmation": "Payment confirmed, order placed"}
+}
